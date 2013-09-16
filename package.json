@@ -1,0 +1,20 @@
+{
+  "name": "dailymile",
+  "version": "0.0.1",
+  "description": "A node.js wrapper for the dailymile.com REST API",
+  "main": "src/module.js",
+  "scripts": {
+    "test": "node test/tests.js"
+  },
+  "keywords": [
+    "dailymile",
+    "running",
+    "fitness",
+    "APIs"
+  ],
+  "author": "Alex J Hancock",
+  "license": "MIT",
+  "dependencies": {
+    "request-json": "~0.4.3"
+  }
+}
